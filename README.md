@@ -28,4 +28,5 @@ there should be a login page for users to login in their dashboard.
   the admin and user should be able to see projects istruction and truck remaining time to complete the projects.
   when the user upload files for a project the task should reflect on the completed projects.
   the should be a repository for cancelled projects on the user side and admin dashboard.
+  the admin should be able to truck orders paid and not paid
 
